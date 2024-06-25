@@ -8,27 +8,28 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## How to Run the Project
-Clone the Repository:
 
-sh
-Copy code
+Clone the Repository:
+```
 git clone https://github.com/your-username/snake-game-react.git
 cd snake-game-react
-Install Dependencies:
+```
 
-sh
-Copy code
+Install Dependencies:
+```
 npm install
 Start the Development Server:
+```
 
-sh
-Copy code
+Start:
+```
 npm start
+```
 
-## Play the Game:
+Play the Game:
 Open your browser and navigate to http://localhost:3000 to start playing the Snake game.
 
-Usage
+## Usage
 Play/Pause Button: Toggles the game state between running and paused.
 Play Again Button: Resets the game after a game over, allowing you to start a new session.
 Score Display: Shows the current score based on the length of the snake.
