@@ -26,7 +26,7 @@ npm run dev
 ```
 
 Play the Game:
-Open your browser and navigate to http://localhost:5174 to start playing the Snake game.
+- Open your browser and navigate to http://localhost:5174 to start playing the Snake game.
 
 ## Usage
 - Play/Pause Button: Toggles the game state between running and paused.
