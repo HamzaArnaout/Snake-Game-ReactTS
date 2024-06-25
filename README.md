@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 Clone the Repository:
 ```
-git clone https://github.com/your-username/snake-game-react.git
+git clone https://github.com/HamzaArnaout/Snake-Game-ReactTS.git
 cd snake-game-react
 ```
 
