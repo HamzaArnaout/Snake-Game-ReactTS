@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 Clone the Repository:
 ```
 git clone https://github.com/HamzaArnaout/Snake-Game-ReactTS.git
-cd snake-game-react
+cd Snake-Game-ReactTS
 ```
 
 Install Dependencies:
@@ -22,11 +22,11 @@ npm install
 
 Start the Development Server:
 ```
-npm start
+npm run dev
 ```
 
 Play the Game:
-Open your browser and navigate to http://localhost:3000 to start playing the Snake game.
+Open your browser and navigate to http://localhost:5174 to start playing the Snake game.
 
 ## Usage
 - Play/Pause Button: Toggles the game state between running and paused.
