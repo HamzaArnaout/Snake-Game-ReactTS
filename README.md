@@ -18,10 +18,9 @@ cd snake-game-react
 Install Dependencies:
 ```
 npm install
-Start the Development Server:
 ```
 
-Start:
+Start the Development Server:
 ```
 npm start
 ```
