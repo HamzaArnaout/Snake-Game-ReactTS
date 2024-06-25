@@ -17,7 +17,9 @@ npm run dev
 ```
 
 Play the Game:  
-Open your browser and navigate to http://localhost:5174 to start playing the Snake game.
+![image](https://github.com/HamzaArnaout/Snake-Game-ReactTS/assets/104393639/64f20c54-136e-424d-8f56-11b4a62963e7)
+
+Open your browser and paste the link to start playing the Snake game.
 
 ## Usage
 - Play/Pause Button: Toggles the game state between running and paused.
